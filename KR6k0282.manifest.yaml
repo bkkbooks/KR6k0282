@@ -1,0 +1,146 @@
+canonical_identifier: bkk:krp/KR6k0282/v1
+canonical_location: https://kanripo.org/bkk/KR6k0282/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 釋門歸敬儀擷錄
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/G/G104/G104n2267.xml
+    old_id: G104n2267
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0282_000.yaml, hash: 'sha256:71960fb7e405e1f509917c08f20d45b05c1c38ee90dd073bfd4211b38e4e8ed2'}
+  - {seq: 1, filename: KR6k0282_001.yaml, hash: 'sha256:ab2be5f4faf5feef5a1259f6179809066bb8d7cd26b58c1cb1ffb106e68f1598'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6k0282_001.markers.yaml, hash: 'sha256:62fb941ae380d5df131067f436cebe8db9ce45fff2334950b21c002ff40a1563'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6k0282_G_001-juan-start
+    span:
+    - body
+    - 0
+    - 7052
+  label: 釋門歸敬儀擷錄　　南山律祖原本
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0282_G_001-mulu-1
+    span:
+    - body
+    - 5
+    - 5
+  label: 敬本教興篇第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0282_G_001-mulu-2
+    span:
+    - body
+    - 206
+    - 206
+  label: 濟時護法篇第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0282_G_001-mulu-3
+    span:
+    - body
+    - 1828
+    - 1828
+  label: 隨機立教篇第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0282_G_001-mulu-4
+    span:
+    - body
+    - 2058
+    - 2058
+  label: 乘心行事篇第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0282_G_001-mulu-5
+    span:
+    - body
+    - 2556
+    - 2556
+  label: 寄緣真俗篇第五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0282_G_001-mulu-6
+    span:
+    - body
+    - 3190
+    - 3190
+  label: 引教徵事篇第六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0282_G_001-mulu-7
+    span:
+    - body
+    - 3884
+    - 3884
+  label: 約時科節篇第七
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0282_G_001-mulu-8
+    span:
+    - body
+    - 4373
+    - 4373
+  label: 威容有儀篇第八
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0282_G_001-mulu-9
+    span:
+    - body
+    - 5611
+    - 5611
+  label: 功用顯迹篇第九
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0282_G_001-mulu-10
+    span:
+    - body
+    - 6190
+    - 6190
+  label: 程器陳迹篇第十
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0282_G_001-mulu-11
+    span:
+    - body
+    - 6347
+    - 6347
+  label: 別錄四則
+  type: mulu
+  level: 1
+hash: sha256:b8a406e77b6ab9993218baa0a77223e35c7ec37d215cccaafe845ecf5ef10582
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+editions:
+- short: G

@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6k0282/g/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 釋門歸敬儀擷錄
+  edition:
+    short: g
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/G/G104/G104n2267.xml
+    old_id: G104n2267
+hash: sha256:71960fb7e405e1f509917c08f20d45b05c1c38ee90dd073bfd4211b38e4e8ed2
