@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6k0282/v1
 canonical_location: https://kanripo.org/bkk/KR6k0282/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 釋門歸敬儀擷錄
   source:
@@ -14,10 +14,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6k0282_000.yaml, hash: 'sha256:71960fb7e405e1f509917c08f20d45b05c1c38ee90dd073bfd4211b38e4e8ed2'}
-  - {seq: 1, filename: KR6k0282_001.yaml, hash: 'sha256:d002bb5e7053abf52742b4a60b43418cbdc785a4b0ea9792ebd81acd0e0b655b'}
+  - {seq: 1, filename: KR6k0282_001.yaml, hash: 'sha256:7615821af5dfd0621183783699f2a84acdbeab1fd62fd81fe8ded676e1314f6d'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6k0282_000.markers.yaml, hash: 'sha256:0fec6a0b806c9bc07c28b6b41558e14682b0c13d06a3051d6290c12c1d975b97'}
-  - {seq: 1, role: markers, filename: assets/KR6k0282_001.markers.yaml, hash: 'sha256:b1ec6d6721d79732be42e17945db94d74e2a734c109251ba4acb4edfb66614c0'}
+  - {seq: 1, role: markers, filename: assets/KR6k0282_001.markers.yaml, hash: 'sha256:ca08fa1694272b0bc70fe2490ec29a4e219505ece1156103ea840aade9382c01'}
 table_of_contents:
 - ref:
     seq: 1
@@ -139,6 +139,9 @@ table_of_contents:
   label: 別錄四則
   type: mulu
   level: 1
-hash: sha256:8036c0ba42f98ef44b80dc2c545910a87876752875e48a050c350b72547ee3e2
+hash: sha256:1672a57489c3abde9edaa62126fa7fc6547f8a6161a325b1a8eab62ee8a783cf
 editions:
 - short: G
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
